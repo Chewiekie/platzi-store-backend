@@ -9,7 +9,8 @@ git:
 script:
   - yarn test
 notifications:
-  slack: localmeetups-co:xTc4oYzejXFFNHsAaYEzxIkE
+  slack:
+    secure: "kM79t9nqpjd8isbA8ylglAczdxAk6D8gsaBXRbB4t33hnxdlHafYss2yy7c2/gv2rezH/yp1NVEB+40EknodtX/idBRO8VbPZ/DMzAL9UmdJNgHIaJ4MjKAz9kg0jC5NOGRYKEcMM/J5i8f8kzpqoqBhxL+9AQHgHLc4AnYD/Jx0HHM4t3cRXM8PLHboPBrCbIMSIqX5g/IZ+iS0Oo9nusx+aWdNBoNFw7igECxLy/CCKinUAkIc9WV298eTwHw3vFUOHPzzqIv3PJxOxELoqZ7TmC8Rn4Ts7yLf4KRgpNJnvp9uS6s3FBK7enLvURk6QeTZEfMBoqT6R9a+VxxbKfmoHE0gwqrqKP/ylkflw8UwiiuI7tCbUarAqYlJu0dd2eK3OVm4vQZTxydXlA/Nt47LstlMz9VPD2kwvTwDKtIHPDBAhS0OpBFV4gAakOPdjxZNVQc90DGGQKAFcVZfhPLnyk5xspwZt/PYNC2isbQFfrt9e1feckfV0eoh1nnchZ38fN0Hkzu8LY/YeQsgFukmFelEkBRdZTHkBRO/tCTJoCkr64ST01oKqj7eW/WLeOaw5BffqvNHmBdPvqZCsa3EePPJCJxUCCnK+ezzG7YIlZ6IBs1yGqsIywJbjgZyabmGGeWJBBpaIBcVyuk/xWo58G9rIjysLfxHywuAftg="
   email:
     recipients:
       - oscar@platzi.com
