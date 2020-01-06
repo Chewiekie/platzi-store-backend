@@ -7,7 +7,7 @@ node_js:
 git:
   depth: 3
 script:
-  - yarn build
+  - yarn test
 notifications:
   slack: localmeetups-co:xTc4oYzejXFFNHsAaYEzxIkE
   email:
