@@ -7,11 +7,11 @@ const receiptsApi = require('./routes/receipt');
 
 app.get('/', (req, res) => {
   let userInfo = req.header("user-agent");
-  res.send(`UserInfo: ${userInfo}`);
+  res.send(`New UserInfo: ${userInfo}`);
 });
 
-productsApi(app)
-receiptsApi(app)
+productsApi(app);
+receiptsApi(app);
 
 app.listen(port, err => {
   if (err) {
