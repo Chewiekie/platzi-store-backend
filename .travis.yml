@@ -21,7 +21,7 @@ deploy:
   skip-cleanup: true
   keep-history: true
   api_key:
-    secure: f4273f2a-9430-4302-98f1-ddb90d7ea913
+    secure: "sKXWjYlRJ9SDp3C8uEFVo4tD1yRd4caZcSAbmmgJx88A2tSNKbijJFFMlQgD32cGBgISwtDXnIcbd15lK3z3LYw8nywsLl2woB4keL5vgwm4r97bCxvYQDH28Y4h44z+lQYlUBD0qmTFcgRKpKp5mUts27XhsqUC4XLFqwDgWy7M9mzrxO2/RkZD7WScI+SiDJq9TTFMooRIIdstACQ812yHdRH4UGh2mYNC/zoovnXpdYg/1i9iWMj/aFnr7Hh53WABhL9O0Wfq4EoOxs9N6iXxivyw3mST6q+6rGt/yvDsyNGSUcUphYEJpC+33iwYSS0ogFqhKPoJyaV4gwoGGF3XsHd63fFOVi/af+WGThN9LEmYmpi7pQevdrtUhfsZ/mlkRCQDLi9sAqBc1Sgyv5oOZl/PkXpbwZlWDh1c0pKtcqGyc+zA4KG4DcIT2YiRcfookm0X29oEBYAaa4p4mmzB1Lf6BmSCYJI8bZ9WKX1UzMIMrNecHbltRYe1akxkiUKqsEH/N4OdrmsGd0R2vmQU0Gnraq81pNnp5rGdiKDWc0bQShQIueqUyWDDMotDvKFaCXl7VNMiuC+ORloeY5ZbHsSoLqBwSRL+bPqEEQbI26KFBqDhwDAm1jCc4djBmsy40dSW6p4B2B77KnjQMpxJoW87rGlcjs58JqFm5gA="
   app: platzi-store-backend
   on:
     repo: Chewiekie/platzi-store-backend
